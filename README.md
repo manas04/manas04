@@ -24,7 +24,7 @@ Hello! I'm __Manas Joshi__, and I'm passionate about the exciting world of data 
 
 🔍 Currently, I am actively seeking job opportunities in these domains, eager to contribute my skills and expertise to meaningful projects. If you're looking for someone who is enthusiastic about data and loves solving complex problems, let's connect!
 
-📬 Feel free to reach out to me at manasj9507@gmail.com  or connect with me on https://www.linkedin.com/in/joshi-manas/ to discuss potential collaborations or job opportunities. Together, we can harness the power of data to drive informed decisions and create value.
+📬 Feel free to reach out to me at manasj9507@gmail.com  or connect with me on <a href="https://www.linkedin.com/in/joshi-manas/">LinkedIn</a> to discuss potential collaborations or job opportunities. Together, we can harness the power of data to drive informed decisions and create value.
 
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
