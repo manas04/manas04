@@ -60,7 +60,7 @@ As a Pricing Analyst Intern at GEA, I am gaining valuable experience in the fiel
 ### Analyst at Tata Consultancy Services
 
 - **Duration:** June 2021 - July 2022
-- **Location:** Hyderababd, Telangana
+- **Location:** Hyderabad, Telangana
 
 During my tenure at Tata Consultancy Services, I worked as an Analyst and contributed to data-driven solutions for stakeholders. My role involved:
 
