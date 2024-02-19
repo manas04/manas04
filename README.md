@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:manasj9507@gmail.com)](mailto:manasj9507@gmail.com)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/manasj514)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/manas9507/)
-
+[![](https://img.shields.io/badge/-Tableau%20Public-FFA116?style=for-the-badge&logo=Tableau&logoColor=black)](https://public.tableau.com/app/profile/manas.joshi/vizzes/)
 
 Hello! I'm __Manas Joshi__, and I'm passionate about the exciting world of data analysis, machine learning, data science, and pricing analysis. With a strong background in these fields, I'm constantly exploring new data-driven solutions and insights.
 
